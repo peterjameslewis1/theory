@@ -34,7 +34,7 @@ header {
     font-family: "Raleway", sans-serif;
     color: white;
     background-size: cover;
-    background-image: url('file:///Users/peterlewis/Documents/Projects/templated-theory/images/banner.jpg');
+    background-image: url('https://templated.co/items/demos/theory/images/banner.jpg');
 }
 
 .banner-inner {
